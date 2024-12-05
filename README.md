@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- 🔭 I’m currently working on a car store website (w/ Django) and a player market analyzer for the Albion Online game (w/ Flask).
+- 🔭 I’m currently working on a web car store (w/ Django) and a player market analyzer for the Albion Online game (w/ Flask).
 - 🌱 I’m improving my knowledge of web development.
 - 🤝 I’m looking to collaborate on Django projects.
 - 💬 Ask me about programming, gaming, or pop culture.

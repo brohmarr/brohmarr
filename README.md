@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- 🔭 I’m currently working on a web car store (w/ Django) and a player market analyzer for the Albion Online game (w/ Flask).
+- 🔭 I’m currently working on a web car store (w/ Django) and a deck image generator for the Hearthstone game (w/ Flask).
 - 🌱 I’m improving my knowledge of web development.
 - 🤝 I’m looking to collaborate on Python projects.
 - 💬 Ask me about coding, gaming, or pop culture.

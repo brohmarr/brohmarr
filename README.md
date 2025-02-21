@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- 🔭 I’m currently working on two web apps: a car dealership and a self-service for restaurants.
+- 🔭 I’m currently working on two web apps: a car store and a self-checkout for restaurants.
 - 🌱 I’m improving my knowledge of web development.
 - 🤝 I’m looking to collaborate on Python projects.
 - 💬 Ask me about coding, gaming, or pop culture.
